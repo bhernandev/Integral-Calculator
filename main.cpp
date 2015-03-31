@@ -7,6 +7,7 @@ using namespace std;
 //->integrateParts();
 //->combineIntegratedParts();
 //}
+//maybe evaluate definite integrals as well
 
 int main(int argc, char *argv[])
 {
@@ -17,3 +18,6 @@ cout << "Be sure to put an arithmetic operation between the polynomial terms";
 cin >> userPolynomial;
 return 0;
 }
+
+
+
